@@ -3,6 +3,10 @@
 <div align="center">
 	<img src="http://www.w3.org/2000/svg", height=350px>
 </div>
+<!-- visitor counter -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/ibrahim87-coder/count.svg" />
+</p>
 
 ## About me :mortar_board:
 I am Jihad Ghannoum a fourth year Software Engineering Student. I'm a technology enthusiast, a learner & an educator. I'm very passionate about software development & solving algorithms.
