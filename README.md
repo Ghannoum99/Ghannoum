@@ -40,7 +40,8 @@ I am Jihad Ghannoum a fourth year Software Engineering Student. I'm a technology
 
 
 ## My GitHub Statistics
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghannoum99&layout=compact)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghannoum99&layout=compact)][github]
 
 
 ## Reach me 
