@@ -38,6 +38,8 @@ I am Jihad Ghannoum a fourth year Software Engineering Student. I'm a technology
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniakash&layout=compact)][github]
+
 
 ## Reach me 
 [![GitHub: Jihad Ghannoum](https://img.shields.io/github/followers/Ghannoum99?label=Ghannoum99&style=social)](https://github.com/Ghannoum99)
