@@ -5,7 +5,7 @@
 </div>
 <!-- visitor counter -->
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/ibrahim87-coder/count.svg" />
+  <img src="https://profile-counter.glitch.me/Ghannoum99/count.svg" />
 </p>
 
 ## About me :mortar_board:
