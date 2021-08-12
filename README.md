@@ -1,4 +1,3 @@
-<script src="https://kit.fontawesome.com/66aa7c98b3.js" crossorigin="anonymous"></script>
 # Welcome to my github! 👋
 
 <div align="center">
@@ -50,7 +49,7 @@ I am Jihad Ghannoum a fourth year Software Engineering Student. I'm a technology
 [![Instagram](https://img.shields.io/badge/-@gh_jihad-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/gh_jihad/)](https://www.instagram.com/gh_jihad/)
 [![Linkedin](https://img.shields.io/badge/-Jihad%20Ghannoum-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jihad-ghannoum/)](https://www.linkedin.com/in/jihad-ghannoum/)
 [![Mail](https://img.shields.io/badge/-ghannoumjihad59@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/jihad-ghannoum/)](mailto:ghannoumjihad59@gmail.com)
-<div class="social-menu">
+<div class="social-menu" src="https://kit.fontawesome.com/66aa7c98b3.js">
                 <ul>
                     <li><a href="https://www.facebook.com/jihade.ghanoum"><i class="fab fa-facebook" target="blank"></i></a></li>
                     <li><a href="https://www.instagram.com/gh_jihad/"><i class="fab fa-instagram"></i></a></li>
