@@ -1,8 +1,8 @@
 # Welcome to my github! 👋
 
-<video width="310" height="240" autoplay>
-	<source src="media/videos/Bouncing-period-[remix].mp4" type="video/mp4">
-</video>
+<div>
+	<img src="https://images.pexels.com/photos/4709286/pexels-photo-4709286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
+</div>
 <!-- visitor counter -->
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Ghannoum99/count.svg" />
