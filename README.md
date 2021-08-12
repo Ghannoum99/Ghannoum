@@ -48,8 +48,6 @@ I am Jihad Ghannoum a fourth year Software Engineering Student. I'm a technology
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghannoum99&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghannoum99&layout=compact)
-
 
 ## Reach me 
 [![GitHub: Jihad Ghannoum](https://img.shields.io/github/followers/Ghannoum99?label=Ghannoum99&style=social)](https://github.com/Ghannoum99)
