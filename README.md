@@ -1,8 +1,8 @@
 # Welcome to my github! 👋
 
-<div align="center">
-	<img src="http://www.w3.org/2000/svg", height=350px>
-</div>
+<video width="310" height="240" autoplay>
+	<source src="media/videos/Bouncing-period-[remix].mp4" type="video/mp4">
+</video>
 <!-- visitor counter -->
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Ghannoum99/count.svg" />
