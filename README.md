@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src="https://miro.medium.com/max/9000/0*goaFvkjpQM-0p0h6.", height=350px>
+	<img src="http://www.w3.org/2000/svg", height=350px>
 </div>
 
 ## About me :mortar_board:
