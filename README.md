@@ -1,14 +1,13 @@
 # Welcome to my github! 👋
 
 <div>
-	<img src="https://images.pexels.com/photos/4709286/pexels-photo-4709286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
+     <img src="https://images.pexels.com/photos/4709286/pexels-photo-4709286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
 </div>
 <!-- visitor counter -->
-<div>
-	<p align="center"> 
-	  <img src="https://profile-counter.glitch.me/Ghannoum99/count.svg" />
-	</p>
-</div>
+
+<p align="center"> 
+     <img src="https://profile-counter.glitch.me/Ghannoum99/count.svg" />
+</p>
 
 ## About me :mortar_board:
 I am Jihad Ghannoum a fourth year Software Engineering Student. I'm a technology enthusiast, a learner & an educator. I'm very passionate about software development & solving algorithms.
