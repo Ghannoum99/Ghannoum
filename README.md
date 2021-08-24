@@ -55,7 +55,6 @@ I am Jihad Ghannoum a fourth year Software Engineering Student. I'm a technology
 
 
 ## Reach me 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="125" title="Facebook" link=https://www.facebook.com/jihade.ghanoum/ />
 [![GitHub: Jihad Ghannoum](https://img.shields.io/github/followers/Ghannoum99?label=Ghannoum99&style=social)](https://github.com/Ghannoum99)
 [![Instagram](https://img.shields.io/badge/-@gh_jihad-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/gh_jihad/)](https://www.instagram.com/gh_jihad/)
 [![Linkedin](https://img.shields.io/badge/-Jihad%20Ghannoum-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jihad-ghannoum/)](https://www.linkedin.com/in/jihad-ghannoum/)
