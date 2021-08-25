@@ -29,7 +29,7 @@ I am Jihad Ghannoum a fourth year Software Engineering Student. I'm a technology
 
 - **Back-End Development**
 	- MySQL
-	- SQL Server
+	- Microsoft SQL Server
 	- SQLite
 	- Django
 	- Flask
