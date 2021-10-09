@@ -10,7 +10,7 @@
 </p>
 
 ## About me :mortar_board:
-I am Jihad Ghannoum a fourth year Software Engineering Student. I'm a technology enthusiast, a learner & an educator. I'm very passionate about software development & solving algorithms.
+I am Jihad Ghannoum a fourth year Software Engineering Student. I'm a technology enthusiast, a learner & an educator. I'm very passionate about software development.
 
 
 ## What I know :computer:
