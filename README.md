@@ -36,8 +36,7 @@ I am Jihad Ghannoum a fourth year Software Engineering Student. I'm a technology
 ## My GitHub Statistics
 <p>
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ghannoum99&count_private=true&theme=default&show_icons=true)
-" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ghannoum99&count_private=true&theme=default&show_icons=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghannoum99&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
