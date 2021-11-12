@@ -18,7 +18,6 @@ I am Jihad Ghannoum a fourth year Software Engineering Student. I'm a technology
 	- Python
 	- C/C++
 	- Java
-	- C#
 	 
 - **Front-End Development**
 	- HTML, CSS and Javascript :white_check_mark:
@@ -32,7 +31,6 @@ I am Jihad Ghannoum a fourth year Software Engineering Student. I'm a technology
 	- SQLite
 	- Django
 	- Flask
-	- ASP.NET
 
 
 - **Shell Scripting**
