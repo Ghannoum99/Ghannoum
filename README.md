@@ -35,10 +35,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghannoum99&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-(https://www.instagram.com/gh_jihad/)
-[![Linkedin](https://img.shields.io/badge/-Jihad%20Ghannoum-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jihad-ghannoum/)](https://www.linkedin.com/in/jihad-ghannoum/)
-[![Mail](https://img.shields.io/badge/-ghannoumjihad59@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/jihad-ghannoum/)](mailto:ghannoumjihad59@gmail.com)
-
-
 Thanks for stopping by! 😁
 
