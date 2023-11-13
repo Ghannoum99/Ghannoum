@@ -1,5 +1,3 @@
-# Welcome to my github! 👋
-
 <div>
      <img src="https://images.pexels.com/photos/4709286/pexels-photo-4709286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
 </div>
